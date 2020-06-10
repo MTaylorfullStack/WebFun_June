@@ -1,0 +1,27 @@
+#wrapper{
+    margin: 0px auto;
+    background-color: aqua;
+    width: 900px;
+    height: 900px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+#child_one{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    display: inline-block;
+    margin-right: 385px;
+}
+
+#child_two{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+}

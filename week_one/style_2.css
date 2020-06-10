@@ -1,0 +1,42 @@
+#wrapper{
+    margin: 0px auto;
+    background-color: navy;
+    width: 950px;
+    min-height: 100px;
+    padding: 25px;
+    color: pink;
+}
+#header{
+    background-color: red;
+    width: 945px;
+    min-height: 200px;
+    margin-bottom: 25px;
+    padding: 10px;
+}
+#header h1{
+    margin-top: 8%;
+}
+#navbar{
+    background-color: aqua;
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    vertical-align: top;
+}
+#content{
+    background-color: black;
+    display: inline-block;
+    width: 655px;
+    height: 500px;
+    margin-left: 35px;
+    vertical-align: top;
+}
+#footer{
+    background-color: cornflowerblue;
+    width: 945px; 
+    height: 50px;
+    margin-top: 25px;
+}
+.blue{
+    color: blue;
+}

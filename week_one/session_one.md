@@ -4,7 +4,7 @@
 -   a look at HTML
 
 ## Request/Response
--   what is a request? some request methods?
+-   what is an HTML request?
 -   who sends a request?
 -   how is a request handled?
 

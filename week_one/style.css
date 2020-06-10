@@ -1,0 +1,15 @@
+
+#wrapper{
+    margin: 0px auto;
+    background-color: red;
+}
+.header{
+    background-color: blue;
+    font-family: sans-serif;
+}
+h1{
+    background-color: green;
+}
+#head{
+    background-color: pink;
+}
