@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
 *{
     font-family: sans-serif;
 }
@@ -34,6 +35,10 @@
     width: 900px;
 }
 
+/* #content h1{
+    text-align: center;
+} */
+
 .subcontent{
     display: inline-block;
     margin: 48px;
@@ -51,4 +56,56 @@
 .subcontent li{
     font-size: 22pt;
     margin: 10px;
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+    background-color: white;
+    text-align: center;
+    padding-top: 15px;
+    margin: 31px;
+}
+
+#contact{
+    margin-top: 125px;
+}
+
+#contact p{
+    display: inline;
+}
+
+#footer{
+    background-color: lavender;
+    height: 200px;
+}
+
+.sub_foot{
+    background-color: lightblue;
+    width: 277px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+
+.sub_foot h4{
+    display: inline-block;
+    margin-top: 3px;
+    vertical-align: middle;
+}
+
+.foot_img{
+    width: 50px;
+    height: 50px;
+    margin-right: 40px;
+
+}
+
+.placeholder{
+    background-color: white;
+    height: 100px;
+    margin-top: 25px;
 }
